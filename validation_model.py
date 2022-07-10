@@ -101,7 +101,7 @@ test_image_classifier_with_folder(face_classifier,
                                   y_true='not_me')
 
 ## 测试单张图片
-test_path = 'datasets/face_dataset_test_images/me/me_(69).jpg'
+test_path = 'datasets/face_dataset_test_images/me/me.jpg'
 test_image = image.load_img(test_path, target_size=(img_height, img_width, 3))
 
 test_image = image.img_to_array(test_image)  # from image to array

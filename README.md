@@ -28,5 +28,10 @@ python train_and_save_data.py
 ```
 python validation_model.py
 ```
-
 会生成图片的百分比
+
+## 使用摄像头验证
+
+```
+python video-validation_model.py
+```
