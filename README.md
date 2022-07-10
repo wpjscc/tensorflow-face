@@ -35,3 +35,9 @@ python validation_model.py
 ```
 python video-validation_model.py
 ```
+
+
+## ref
+
+https://towardsdatascience.com/how-to-create-real-time-face-detector-ff0e1f81925f
+
